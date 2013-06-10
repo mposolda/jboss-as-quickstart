@@ -215,9 +215,12 @@
                 <module>memcached-endpoint</module>
                 <module>numberguess</module>
                 <module>payment-cdi-event</module>
+                <module>picketlink-authentication-facebook</module>
+                <module>picketlink-authentication-google</module>
                 <module>picketlink-authentication-jsf</module>
                 <module>picketlink-authentication-idm-jsf</module>
                 <module>picketlink-authorization-idm-jpa</module>
+                <module>picketlink-authentication-twitter</module>
                 <module>rest-endpoint</module>
                 <module>richfaces-validation</module>
                 <module>servlet-async</module>
